@@ -2,17 +2,9 @@
 
 ## Descripción
 
-Respositorio de proyectos de OpenGL para los cursos:
+Proyecto Centro Comercial Eco Renovable Teoría  CGeIHC
 
 - Computación Gráfica e Interacción Humano Computadora (UNAM)
 - Motores de videojuegos (UP)
 
-## Autor
 
-Dr. Sergio Teodoro Vite
-Profesor
-sergioteovit@gmail.com
-
-## Licencia
-
-Licencia exclusiva para estudiantes con matrícula en UNAM y UP. Todos los derechos reservados. México.
